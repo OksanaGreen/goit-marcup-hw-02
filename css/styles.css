@@ -1,3 +1,242 @@
 body {
-font-family:"";
+font-family:"Roboto", sans-serif;
+}
+.list{
+  list-style: none;
+}
+.link{
+  text-decoration: none;
+}
+.header {
+}
+.header-navigation {
+}
+.header-logo {
+  font-family: 'Raleway',sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.33;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  
+  /* IRIS */
+  
+  color: #4D5AE5;
+}
+.header-list {
+}
+.header-item {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  /* identical to box height, or 150% */
+  letter-spacing: 0.02em;
+  /* NAVY BLUE */color: #2E2F42;
+  
+  
+}
+.header-link {
+}
+.adress {
+}
+.adress-list {
+}
+.adress-item {
+  font-style: normal;
+  font-size: 16px;
+  line-height:1.5;
+  letter-spacing: 0.02em;
+  /* SLATE */
+  color: #434455;
+  
+}
+.adress-mail {
+}
+.adress-tel {
+}
+.hero {
+}
+.hero-title {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #FFFFFF;
+  background-color: #2E2F42;
+}
+.hero-btn {
+  font-family: 'Roboto',sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.04em;
+  color: #FFFFFF;
+  
+}
+.information {
+}
+.information-list {
+}
+.information-item {
+}
+.information-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  /* NAVY BLUE */
+  color: #2E2F42;
+}
+.information-desc {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  /* SLATE */
+  color: #434455;
+}
+.doing {
+}
+.doing-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+   text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  /* NAVY BLUE */
+  color: #2E2F42;
+  
+}
+.doing-list {
+}
+.doing-item {
+}
+.team {
+}
+.team-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+   /* NAVY BLUE */
+   color: #2E2F42;
+}
+.team-list {
+}
+.team-item {
+}
+.team-name {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  text-align: center;
+  letter-spacing: 0.02em;
+  /* NAVY BLUE */
+  color: #2E2F42;
+}
+.team-position {
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: center;
+  letter-spacing: 0.02em;
+  /* SLATE */
+  color: #434455;
+  
+}
+.footer {
+}
+.footer-hidden {
+}
+.footer-logo {
+  font-family: 'Raleway',sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #F4F4FD;
+}
+.footer-tagline {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  /* CORNFLOWER */
+  color: #E7E9FC; 
+}
+.header {
+}
+.header-navigation {
+}
+.header-logo {
+}
+.header-list {
+}
+.header-item {
+}
+.header-link {
+}
+.adress {
+}
+.adress-list {
+}
+.adress-item {
+}
+.adress-mail {
+}
+.adress-tel {
+}
+.hero {
+}
+.hero-title {
+}
+.hero-btn {
+}
+.information {
+}
+.information-list {
+}
+.information-item {
+}
+.information-title {
+}
+.information-desc {
+}
+.doing {
+}
+.doing-title {
+}
+.doing-list {
+}
+.doing-item {
+}
+.team {
+}
+.team-title {
+}
+.team-list {
+}
+.team-item {
+}
+.team-name {
+}
+.team-position {
+}
+.footer {
+}
+.footer-hidden {
+}
+.footer-logo {
+}
+.footer-tagline {
 }
