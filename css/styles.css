@@ -44,6 +44,7 @@ body {
   align-items: center;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  color: #2e2f42;
 }
 .header-list {
 }
@@ -265,6 +266,8 @@ body {
   background: #4d5ae5;
 }
 .portfolio-list {
+}
+.portfolio-list-btn {
 }
 .portfolio-examples {
 }
